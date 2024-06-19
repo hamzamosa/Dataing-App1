@@ -3,23 +3,43 @@
   "WorkspaceRootPath": "D:\\My-Github\\Dataing-App1\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\extensions\\identityserivceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\extensions\\identityserivceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\extensions\\identityserivceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,24 +47,8 @@
       "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|d:\\my-github\\dataing-app1\\api\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\entites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|solutionrelative:api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C6F60C9-27FF-43B4-AEC2-CE55C3DF63B7}|API\\API.csproj|D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040949_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,89 +74,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IdentitySerivceExtensions.cs",
-              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Extensions\\IdentitySerivceExtensions.cs",
-              "RelativeDocumentMoniker": "API\\Extensions\\IdentitySerivceExtensions.cs",
-              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Extensions\\IdentitySerivceExtensions.cs",
-              "RelativeToolTip": "API\\Extensions\\IdentitySerivceExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T09:43:37.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationServiceExtensions.cs",
-              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
-              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServiceExtensions.cs",
-              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
-              "RelativeToolTip": "API\\Extensions\\ApplicationServiceExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T09:43:04.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\UserDTO.cs",
               "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\DTOs\\UserDTO.cs",
               "RelativeToolTip": "API\\DTOs\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T09:01:17.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "API\\Services\\TokenService.cs",
               "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Services\\TokenService.cs",
               "RelativeToolTip": "API\\Services\\TokenService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABDAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wB8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T08:45:45.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITokenServices.cs",
-              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Interfaces\\ITokenServices.cs",
-              "RelativeDocumentMoniker": "API\\Interfaces\\ITokenServices.cs",
-              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Interfaces\\ITokenServices.cs",
-              "RelativeToolTip": "API\\Interfaces\\ITokenServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:43:45.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGAAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T05:51:36.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
@@ -175,66 +123,14 @@
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T04:01:15.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240618040949_second.cs",
-              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040949_second.cs",
-              "RelativeDocumentMoniker": "API\\Migrations\\20240618040949_second.cs",
-              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040949_second.cs",
-              "RelativeToolTip": "API\\Migrations\\20240618040949_second.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T04:09:49.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20240618040257_first.cs",
-              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040257_first.cs",
-              "RelativeDocumentMoniker": "API\\Migrations\\20240618040257_first.cs",
-              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040257_first.cs",
-              "RelativeToolTip": "API\\Migrations\\20240618040257_first.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T04:02:57.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-18T03:50:59.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\DTOs\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "API\\DTOs\\RegisterDTO.cs",
-              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\DTOs\\RegisterDTO.cs",
-              "RelativeToolTip": "API\\DTOs\\RegisterDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T05:49:40.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\LoginDTO.cs",
@@ -247,7 +143,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "API\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:49:40.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "API\\Data\\DataContext.cs",
@@ -260,7 +169,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:43:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentitySerivceExtensions.cs",
+              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Extensions\\IdentitySerivceExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\IdentitySerivceExtensions.cs",
+              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Extensions\\IdentitySerivceExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\IdentitySerivceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:43:37.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240618040949_second.cs",
+              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040949_second.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20240618040949_second.cs",
+              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040949_second.cs",
+              "RelativeToolTip": "API\\Migrations\\20240618040949_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:09:49.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:51:36.259Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ITokenServices.cs",
+              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Interfaces\\ITokenServices.cs",
+              "RelativeDocumentMoniker": "API\\Interfaces\\ITokenServices.cs",
+              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Interfaces\\ITokenServices.cs",
+              "RelativeToolTip": "API\\Interfaces\\ITokenServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:43:45.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240618040257_first.cs",
+              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040257_first.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20240618040257_first.cs",
+              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\Migrations\\20240618040257_first.cs",
+              "RelativeToolTip": "API\\Migrations\\20240618040257_first.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:02:57.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\My-Github\\Dataing-App1\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T03:50:59.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Entites\\AppUser.cs",
               "RelativeDocumentMoniker": "API\\Entites\\AppUser.cs",
@@ -268,12 +263,11 @@
               "RelativeToolTip": "API\\Entites\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T03:53:28.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T03:53:28.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\My-Github\\Dataing-App1\\API\\API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
@@ -281,8 +275,7 @@
               "RelativeToolTip": "API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-18T03:51:25.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T03:51:25.788Z"
             }
           ]
         },
